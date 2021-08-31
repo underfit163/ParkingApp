@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA44BA7D-B8C7-4E80-A5C2-C619453BD0BD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ParkingApp</RootNamespace>
+    <AssemblyName>ParkingApp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\BaseParkingClasses\ModelingParams.cs" />
+    <Compile Include="Classes\BaseParkingClasses\TabloItem.cs" />
+    <Compile Include="Classes\ModelingClasses\DistributionsClass.cs" />
+    <Compile Include="Classes\VisualizationClasses\ParkingFieldClass.cs" />
+    <Compile Include="Classes\VisualizationClasses\AdjacentRoadClass.cs" />
+    <Compile Include="Classes\AlgPathFindClasses\FindPaths.cs" />
+    <Compile Include="Classes\AlgPathFindClasses\PathPoint.cs" />
+    <Compile Include="Classes\AlgPathFindClasses\PathNode.cs" />
+    <Compile Include="Classes\BaseParkingClasses\Car.cs" />
+    <Compile Include="Classes\DefaultParkings\DefaultParkings.cs" />
+    <Compile Include="Classes\SerializationClasses\FileWorkerWithParkingField.cs" />
+    <Compile Include="Classes\Globals.cs" />
+    <Compile Include="Classes\ModelingClasses\Modeling.cs" />
+    <Compile Include="Classes\VisualizationClasses\ProcessImagesClass.cs" />
+    <Compile Include="Classes\VisualizationClasses\RoadsClass.cs" />
+    <Compile Include="Classes\VisualizationClasses\VerifyParkingClass.cs" />
+    <Compile Include="Screens\AboutSystemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\AboutSystemForm.Designer.cs">
+      <DependentUpon>AboutSystemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Administrator\AdministratorMainScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Administrator\AdministratorMainScreen.Designer.cs">
+      <DependentUpon>AdministratorMainScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Administrator\AdministratorSignInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Administrator\AdministratorSignInForm.Designer.cs">
+      <DependentUpon>AdministratorSignInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Administrator\ConfigureTarifForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Administrator\ConfigureTarifForm.Designer.cs">
+      <DependentUpon>ConfigureTarifForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Administrator\CreateParkingField.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Administrator\CreateParkingField.Designer.cs">
+      <DependentUpon>CreateParkingField.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\SerializationClasses\FileWorkerWithUsers.cs" />
+    <Compile Include="Screens\Administrator\SaveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Administrator\SaveForm.Designer.cs">
+      <DependentUpon>SaveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\MainScreenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\MainScreenForm.Designer.cs">
+      <DependentUpon>MainScreenForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Manager\ConfigureModelingParamsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Manager\ConfigureModelingParamsForm.Designer.cs">
+      <DependentUpon>ConfigureModelingParamsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Manager\ManagerMainScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Manager\ManagerMainScreen.Designer.cs">
+      <DependentUpon>ManagerMainScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\Manager\ManagerSignInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Manager\ManagerSignInForm.Designer.cs">
+      <DependentUpon>ManagerSignInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\BaseParkingClasses\ParkingField.cs" />
+    <Compile Include="Screens\Administrator\ParkingSpaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Administrator\ParkingSpaceForm.Designer.cs">
+      <DependentUpon>ParkingSpaceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\SerializationClasses\SerializeClass.cs" />
+    <Compile Include="Screens\Manager\ModelingSpaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\Manager\ModelingSpaceForm.Designer.cs">
+      <DependentUpon>ModelingSpaceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\SignUpForm.Designer.cs">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\BaseParkingClasses\Tariff.cs" />
+    <Compile Include="Classes\BaseParkingClasses\User.cs" />
+    <Compile Include="Classes\SerializationClasses\UserValidator.cs" />
+    <EmbeddedResource Include="Screens\AboutSystemForm.resx">
+      <DependentUpon>AboutSystemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Administrator\AdministratorMainScreen.resx">
+      <DependentUpon>AdministratorMainScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Administrator\AdministratorSignInForm.resx">
+      <DependentUpon>AdministratorSignInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Administrator\ConfigureTarifForm.resx">
+      <DependentUpon>ConfigureTarifForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Administrator\CreateParkingField.resx">
+      <DependentUpon>CreateParkingField.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Administrator\SaveForm.resx">
+      <DependentUpon>SaveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\MainScreenForm.resx">
+      <DependentUpon>MainScreenForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Manager\ConfigureModelingParamsForm.resx">
+      <DependentUpon>ConfigureModelingParamsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Manager\ManagerMainScreen.resx">
+      <DependentUpon>ManagerMainScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Manager\ManagerSignInForm.resx">
+      <DependentUpon>ManagerSignInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\Administrator\ParkingSpaceForm.resx">
+      <DependentUpon>ParkingSpaceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Screens\Manager\ModelingSpaceForm.resx">
+      <DependentUpon>ModelingSpaceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\SignUpForm.resx">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\въезд.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\выезд.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\грузовушка.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\дерево.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\доллар.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\дорога.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\легковушка.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\пустое место.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\трава.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Легковая.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\парковочное место.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\шлагбаум.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\черная машинка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\синяя машинка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\розовая машинка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\зеленая машинка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\красная машинка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\дорога.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\асфальт.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\газон.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\дерево.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\касса.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\шлагбаум отраженный.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\черная_машинка.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highway.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\шоссе.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highwayCar1Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parkingCar1Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highwayCar2Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parkingCar2Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highwayCar3Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parkingCar3Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highwayCar4Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parkingCar4Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highwayCar5Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parkingCar5Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highwayCar6Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highwayCar7Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parkingCar7Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinyaya_mashinka.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highwayPic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highwayPic.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

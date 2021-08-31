@@ -1,0 +1,210 @@
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe.config
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\bin\Debug\ParkingApp.pdb
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AboutSystemForm.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.exe
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.pdb
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+C:\Users\Георгий\source\repos\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.exe
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.pdb
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe.config
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\bin\Debug\ParkingApp.pdb
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe.config
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\bin\Debug\ParkingApp.pdb
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AboutSystemForm.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.exe
+C:\Users\Георгий\Downloads\ParkingApp\ParkingApp\obj\Debug\ParkingApp.pdb
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AboutSystemForm.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.exe
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.pdb
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe.config
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe
+C:\Users\Георгий\Downloads\Новая папка\ParkingApp\ParkingApp\bin\Debug\ParkingApp.pdb
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe.config
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\bin\Debug\ParkingApp.pdb
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.exe
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.pdb
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe.config
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\bin\Debug\ParkingApp.pdb
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.exe
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.pdb
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ModelingSpaceForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ModelingSpaceForm.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ModelingSpaceForm.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe.config
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\bin\Debug\ParkingApp.exe
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\bin\Debug\ParkingApp.pdb
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ModelingSpaceForm.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.exe
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.pdb
+C:\Users\Георгий\Desktop\ParkingApp_rarrrrr\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ConfigureModelingParamsForm.resources
+C:\Users\163ty\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ConfigureModelingParamsForm.resources
+C:\Users\Георгий\Desktop\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ConfigureModelingParamsForm.resources
+C:\Users\163ty\Desktop\Парковка\ParkingApp\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ConfigureModelingParamsForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\bin\Debug\ParkingApp.exe.config
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\bin\Debug\ParkingApp.exe
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\bin\Debug\ParkingApp.pdb
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ConfigureModelingParamsForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ModelingSpaceForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.exe
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.pdb
+\\Mac\Home\Desktop\ParkingApp 2\ParkingApp\obj\Debug\ParkingApp.Screens.AboutSystemForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\bin\Debug\ParkingApp.exe.config
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\bin\Debug\ParkingApp.exe
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\bin\Debug\ParkingApp.pdb
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Screens.AboutSystemForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ConfigureModelingParamsForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ModelingSpaceForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.exe
+\\Mac\Home\Desktop\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.pdb
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\bin\Debug\ParkingApp.exe.config
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\bin\Debug\ParkingApp.exe
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\bin\Debug\ParkingApp.pdb
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.csprojAssemblyReference.cache
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Screens.AboutSystemForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.AdministratorMainScreen.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.AdministratorSignInForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.ConfigureTarifForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.CreateParkingField.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Screens.Administrator.SaveForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.MainScreenForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ConfigureModelingParamsForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.ManagerMainScreen.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.ManagerSignInForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.ParkingSpaceForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Properties.Resources.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.Screens.Manager.ModelingSpaceForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.SignInForm.resources
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.csproj.GenerateResource.cache
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.exe
+C:\Users\163ty\Desktop\Парковка последняя версия\ParkingAppFinal\ParkingApp\obj\Debug\ParkingApp.pdb
