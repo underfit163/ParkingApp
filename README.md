@@ -10,7 +10,9 @@ Paid parking simulation system.
 Управляющий может загружать топологию парковки с целью последующего моделирования её работы, настраивать поток движения машин, запускать моделирование с разной скоростью визуализации, наблюдать процесс работы парковки.
 
 ## Интерфейс пользователя
+
 Главное окно программы
+
 ![image](https://user-images.githubusercontent.com/81982349/131513275-6ef32fb1-beee-4add-9512-85cc026348ce.png)
 
 Окно авторизации
@@ -20,29 +22,38 @@ Paid parking simulation system.
 ![image](https://user-images.githubusercontent.com/81982349/131513382-042e7fa4-efc2-4751-af8c-aeccf97542bc.png)
 
 Главное окно администратора
+
 ![image](https://user-images.githubusercontent.com/81982349/131513413-cd79f66b-6e14-46fa-ac28-db5026a939d5.png)
 
 Главное окно управляющего
+
 ![image](https://user-images.githubusercontent.com/81982349/131513444-6d37ff99-7a23-4532-a79b-f43cb7f2305b.png)
 
 Окно создания пространства парковки
+
 ![image](https://user-images.githubusercontent.com/81982349/131513474-23b3a03f-2840-49fe-9adb-3c368d6bb1e4.png)
 
 Окно редактирования пространства парковки
+
 ![image](https://user-images.githubusercontent.com/81982349/131513504-eda3596e-716d-4e95-9545-037c7f705b69.png)
 
 Окно сохранения пространства парковки
+
 ![image](https://user-images.githubusercontent.com/81982349/131513533-59317efb-3797-4bb0-9d40-4b947030390d.png)
 
 Окно настройки тарифа
+
 ![image](https://user-images.githubusercontent.com/81982349/131513561-9c024b2f-5176-4abf-ac44-954bd9bf6c50.png)
 
 Окно настройки параметров моделирования
+
 ![image](https://user-images.githubusercontent.com/81982349/131513611-367bedf4-dce0-476e-83e1-962ea9a82f17.png)
 
 Окно моделирования процесса
+
 ![image](https://user-images.githubusercontent.com/81982349/131513645-51ade69d-800f-4915-a266-094e8643a79c.png)
 
 Результат моделирования тестового примера
+
 ![image](https://user-images.githubusercontent.com/81982349/131513689-cd33ff74-5c49-4e38-922e-5f088eb69db0.png)
 
